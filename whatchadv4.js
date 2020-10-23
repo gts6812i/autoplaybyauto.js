@@ -1,7 +1,8 @@
 //有耐久二,骑马,驱逐,耐久一
+//屏幕1080*2280
 
 var checkarr=[0,0,1,0,0,1];
-//qima=1,quzhu=1,naijiu1=1,to60=1,tili=1,maijiu2=1
+//qima=1,quzhu=1,naijiu1=1,to60=1,tili=1,naijiu2=1
 
 
 
